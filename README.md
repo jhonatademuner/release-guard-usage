@@ -8,4 +8,4 @@ This repository demonstrates how to use the Release Guard tool in a real-world s
 To make the explanation easier to follow, we’ll use branches with meaningful names. Each branch introduces a small change to the code. Although these changes may seem "useless" in practice, they serve to demonstrate how **Release Guard** behaves in different scenarios.
 
 **Branches:**
-- RGU-7-TEST-Blocking-free-dummy-issue-without-linked-PR
+- RGU-7-TEST-Blocking-free-dummy-issue-without-linked-PR 
